@@ -1,0 +1,46 @@
+h3{
+
+color: rgb(103, 91, 218);
+
+font-weight:bold;
+font-size: 14pt
+}
+
+h1{
+
+color:rgba(93, 34, 141, 0.959);
+
+font-weight:1000;
+font-size: 26pt
+}
+
+body{
+
+color: rgb(32, 28, 34);
+background-color: aqua;
+background-image: url(tło2.jpg)
+
+}
+
+div{
+    width: 800px;
+    padding: 20px;
+    margin:auto
+
+
+}
+
+
+.text{
+
+    font-size: 35pt;
+    font-weight: medium;
+
+}
+ .tytul{
+
+    font-size: 14;
+    font-weight: normal;
+
+ }
+
